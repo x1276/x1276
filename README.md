@@ -1,3 +1,4 @@
 - Glory to our Lord and Saviour Jesus Christ☦️
 - I know Python and have mainly worked with Manim, Flask, and Pygame
+- I have worked in forntend development
 - For any information or collaboration contact me through mishapopov695@gmail.com
